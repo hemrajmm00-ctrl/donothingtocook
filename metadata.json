@@ -1,0 +1,6 @@
+{
+  "name": "Do Nothing To Cook",
+  "description": "Your intelligent AI culinary companion and dynamic recipe assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
